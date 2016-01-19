@@ -1,5 +1,5 @@
 {
-    "name": "http",
+    "name": "http_sample",
     "description": "http sample",
     "version": "0.0.1",
     "main": "http.js",
