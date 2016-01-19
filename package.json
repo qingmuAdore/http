@@ -1,0 +1,12 @@
+{
+    "name": "http",
+    "description": "http sample",
+    "version": "0.0.1",
+    "main": "http.js",
+    "dependencies": {
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "2.14.x"
+    }
+}
